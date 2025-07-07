@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume-cra/static/css/main.bbd6212c.css",
+    "main.js": "/resume-cra/static/js/main.1c5b3aae.js",
+    "index.html": "/resume-cra/index.html",
+    "main.bbd6212c.css.map": "/resume-cra/static/css/main.bbd6212c.css.map",
+    "main.1c5b3aae.js.map": "/resume-cra/static/js/main.1c5b3aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd6212c.css",
+    "static/js/main.1c5b3aae.js"
+  ]
+}
